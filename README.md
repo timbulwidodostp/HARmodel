@@ -1,6 +1,8 @@
 # HARmodel
 Heterogeneous autoregressive (HAR) model for realized volatility model estimation Use HARmodel (highfrequency) With (In) R Software
 
+https://www.youtube.com/watch?v=sLYQspkieuc
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
